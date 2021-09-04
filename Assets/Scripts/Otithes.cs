@@ -8,8 +8,6 @@ public class Otithes : MonoBehaviour
     void Start()
     {
         Debug.Log("ela kai pou eisai!");
-        Debug.Log("dkajfjakwfafk!");
-
     }
 
     // Update is called once per frame
